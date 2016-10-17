@@ -5,6 +5,7 @@
   <project name="ConquestDev/android_kernel_lge_msm8996"    path="kernel/lge/msm8996"    remote="github" revision="cm-13.0" />
   <project name="ConquestDev/android_device_lge_h850"       path="device/lge/h850"       remote="github" revision="cm-13.0" />
   <project name="ConquestDev/android_device_lge_h830"       path="device/lge/h830"       remote="github" revision="cm-13.0" />
+  <project name="ConquestDev/android_packages_apps_Snap" path="packages/apps/Snap"   remote="github" revision="cm-13.0" />  
   <project name="ConquestDev/android_device_qcom_common" path="device/qcom/common"   remote="github" revision="cm-13.0" />
   <project name="ConquestDev/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" remote="github" revision="cm-13.0" />
   <project name="ConquestDev/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="github" revision="cm-13.0" />
